@@ -1,3 +1,3 @@
 # Backend Series 
 
-This is sample prject on backend with JavaScript
+This is sample project on backend with JavaScript
